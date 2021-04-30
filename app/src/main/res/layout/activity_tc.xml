@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:context=".TC" android:layout_height="match_parent" android:layout_width="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/tcccc">
+
+        <ImageView
+            android:layout_width="450dp"
+            android:layout_height="250dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:src="@drawable/mahbub" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="10dp"
+            android:text="Name : Syed Mahbub Alam"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:textStyle="bold"
+
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:text="Head of the department (TCT)"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:textStyle="bold"
+
+            />
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:text="Department: TCT"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:textStyle="bold"
+
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:text="Designation: Instructor"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:textStyle="bold"
+
+            />
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:text="Phone: +8801711583992"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:textStyle="bold"
+
+            />
+
+        <Button
+            android:id="@+id/mahbub_id"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/button_shape"
+            android:text="Call Now"
+            android:textAllCaps="false"
+            android:textColor="#FF9800"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="450dp"
+            android:layout_height="250dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/sajjad" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="10dp"
+            android:text="Name: Md. Sajjad Arifin"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:textStyle="bold"
+
+
+            />
+
+
+        />
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:text="Department: TCT"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:textStyle="bold"
+
+            />
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:text="Designation: Instructor"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:textStyle="bold"
+
+            />
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:text="Phone: +8801833455252"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:textStyle="bold"
+
+            />
+
+        <Button
+            android:id="@+id/sazzad_id"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/button_shape"
+            android:text="Call Now"
+            android:textAllCaps="false"
+            android:textColor="#FF9800"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</ScrollView>

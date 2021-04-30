@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+   android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Emergecy">
+
+<LinearLayout
+    android:background="@drawable/hhhh"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Contact Information"
+        android:textSize="30dp"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:textColor="#ECCB99"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:textAllCaps="false"
+        android:layout_marginTop="10dp"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="#fff"
+        android:text="Feni Computer Institute, Feni.
+Post -New Ranir Hat, Post Code-3900
+Feni Sadar, Feni.
+Phone : 0331 61888
+Email: fci_bd@yahoo.com
+Mobile: +8801912384469 (Principal)"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:textColor="#ECCB99"
+        android:textStyle="bold"
+        android:textAllCaps="false"
+        android:layout_marginLeft="15dp"
+        android:textSize="30dp"
+        android:text="Appeal Reception Officer : "/>
+    <TextView
+        android:textSize="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Engr. Syed Mahbub Alam"
+        android:textStyle="bold"
+
+        android:textColor="#fff"
+        android:layout_marginLeft="40dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Instructor and Head of the Department (TCT)"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:layout_marginLeft="40dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Phone: +8801711583992"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:layout_marginLeft="40dp"/>
+    <Button
+        android:id="@+id/Apple_id"
+        android:textAllCaps="false"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_shape"
+        android:layout_gravity="center"
+        android:text="Call Now"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:textColor="#FF9800"
+        android:layout_marginTop="10dp"/>
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:textColor="#ECCB99"
+        android:textStyle="bold"
+        android:textAllCaps="false"
+        android:layout_marginLeft="15dp"
+        android:textSize="30dp"
+        android:text="Information Officer : "/>
+    <TextView
+        android:textSize="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Engr. Md. Sazzad Arefin"
+        android:textStyle="bold"
+
+        android:textColor="#fff"
+        android:layout_marginLeft="40dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Instructor (TCT)"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="#fff"
+        android:layout_marginLeft="40dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Phone: +8801833455252"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="#fff"
+        android:layout_marginLeft="40dp"/>
+    <Button
+        android:id="@+id/information_id"
+        android:textAllCaps="false"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_shape"
+        android:layout_gravity="center"
+        android:text="Call Now"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:textColor="#FF9800"
+        android:layout_marginTop="10dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:textColor="#ECCB99"
+        android:textStyle="bold"
+        android:textAllCaps="false"
+        android:layout_marginLeft="15dp"
+        android:textSize="30dp"
+        android:text="Register  : "/>
+    <TextView
+        android:textSize="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Jafar Ikbal"
+        android:textStyle="bold"
+
+        android:textColor="#fff"
+        android:layout_marginLeft="40dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Laboratory Assistant and Register(In-charge)"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="#fff"
+        android:layout_marginLeft="40dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Phone: +8801814713208"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="#fff"
+        android:layout_marginLeft="40dp"/>
+    <Button
+        android:id="@+id/register"
+        android:textAllCaps="false"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_shape"
+        android:layout_gravity="center"
+        android:text="Call Now"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:textColor="#FF9800"
+        android:layout_marginTop="10dp"/>
+
+</LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+   android:layout_height="match_parent"
+    android:background="@drawable/light"
+    android:orientation="vertical"
+
+    tools:context=".Us" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:background="@drawable/light"
+
+        android:layout_height="match_parent">
+        <ImageView
+            android:background="@drawable/light"
+            android:layout_width="1090dp"
+            android:layout_gravity="center"
+            android:layout_height="250dp"
+            android:src="@drawable/me"/>
+        <TextView
+            android:layout_marginLeft="25dp"
+            android:layout_margin="10dp"
+            android:textSize="35dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Developed by "
+            android:textStyle="bold"
+            android:textColor="#F1E5E5"/>
+        <TextView
+            android:layout_marginLeft="25dp"
+
+            android:textSize="25dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Md.Shuebur Rahman "
+            android:textStyle="bold"
+            android:textColor="#F1E5E5"/>
+
+        <TextView
+            android:layout_marginLeft="25dp"
+            android:textSize="25dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Data Telecommunication and Networking Technology"
+            android:textStyle="bold"
+            android:textColor="#F1E5E5"/>
+
+        <TextView
+            android:layout_marginLeft="25dp"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Batch:14th"
+            android:textColor="#F1E5E5"/>
+        <TextView
+            android:layout_marginLeft="25dp"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+            android:text="Phone:01789630755"
+            android:textColor="#F1E5E5"/>
+        <Button
+            android:id="@+id/callnow_id"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:textAllCaps="false"
+            android:textStyle="bold"
+            android:textColor="#FF9800"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:textSize="20dp"
+            android:background="@drawable/button_shape"
+            android:text="Call Now"/>
+
+        <ImageView
+            android:layout_marginTop="15dp"
+            android:id="@+id/Fb_id"
+            android:layout_marginBottom="15sp"
+            android:layout_width="250dp"
+            android:layout_gravity="center"
+
+            android:layout_height="65dp"
+            android:src="@drawable/fbb"/>
+    </LinearLayout>
+
+
+</ScrollView>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="wrap_content"
+
+    android:orientation="vertical"
+    tools:context=".Text">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+ android:background="#000000"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:layout_width="410dp"
+        android:layout_height="210dp"
+        android:layout_gravity="center"
+        android:src="@drawable/clk"/>
+
+    <TextView
+
+        android:layout_marginLeft="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="italic"
+        android:textSize="20dp"
+        android:textColor="#fff"
+        android:text="@string/Textt"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="At a Glance"
+        android:textStyle="bold"
+        android:textSize="24dp"
+        android:layout_marginLeft="15dp"
+        android:textColor="@color/white"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1. Established : 06-10-2003"
+android:textSize="20dp"
+
+        android:layout_marginLeft="15dp"
+        android:textColor="@color/white"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2. Email : fci_bd@yahoo.com"
+        android:textSize="20dp"
+
+        android:layout_marginLeft="15dp"
+        android:textColor="@color/white"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="4. Phone and Fax : 033161888"
+        android:textSize="20dp"
+
+        android:layout_marginLeft="15dp"
+        android:textColor="@color/white"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="5. Four Year Course: Diploma In Engineering."
+        android:textSize="20dp"
+
+        android:layout_marginLeft="15dp"
+        android:textColor="@color/white"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="6. Land Area : 02 Acres"
+        android:textSize="20dp"
+
+        android:layout_marginLeft="15dp"
+        android:textColor="@color/white"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="7. Short Courses (03 trades) :
+ (1) IT Support Technician.
+(2) Web Design.
+(3) Graphic Design."
+        android:textSize="20dp"
+
+        android:layout_marginLeft="15dp"
+        android:textColor="@color/white"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="8. Departments (03) :
+(1) Computer Science and Technology.
+(2) Data Telecommunication and Networking Technology.
+(3) Telecommunication Technology."
+        android:textSize="20dp"
+
+        android:layout_marginLeft="15dp"
+        android:textColor="@color/white"/>
+</LinearLayout>
+
+
+    </ScrollView>
+
+

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/button_shape"
+    android:layout_height="match_parent"
+    tools:context=".List">
+
+    <Button
+        android:id="@+id/blood_id"
+        android:background="@drawable/gradien_demo"
+        android:layout_margin="10dp"
+        android:textSize="30dp"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        android:textColor="@color/navy"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Blood Donation"/>
+    <Button
+        android:id="@+id/Ict_id"
+        android:background="@drawable/gradien_demo"
+        android:layout_margin="10dp"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        android:textColor="@color/navy"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fci Ict Club "/>
+
+        <Button
+            android:id="@+id/Roverscout_id"
+            android:background="@drawable/gradien_demo"
+            android:layout_margin="10dp"
+            android:textAllCaps="false"
+            android:textStyle="bold"
+        android:textColor="@color/navy"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rover Scout"/>
+    <Button
+        android:id="@+id/Cultural_id"
+        android:background="@drawable/gradien_demo"
+        android:layout_margin="10dp"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        android:textColor="@color/navy"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cultural Club"/>
+    <Button
+        android:id="@+id/Bdclean_id"
+        android:background="@drawable/gradien_demo"
+        android:layout_margin="10dp"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        android:textColor="@color/navy"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BD Clean"/>
+    <Button
+        android:background="@drawable/gradien_demo"
+        android:layout_margin="10dp"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        android:textColor="@color/navy"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Library"/>
+    <Button
+        android:background="@drawable/gradien_demo"
+        android:layout_margin="10dp"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        android:textColor="@color/navy"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Indrustial Visit"/>
+    <Button
+
+        android:background="@drawable/gradien_demo"
+        android:layout_margin="10dp"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        android:textColor="@color/navy"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Attactment"/>
+
+
+</LinearLayout>

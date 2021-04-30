@@ -1,0 +1,41 @@
+<resources>
+    <string name="textView">  Computer Science is the study of computers and computational systems.
+        Unlike electrical and computer engineers,
+        computer scientists deal mostly with software and software systems;
+        this includes their theory, design, development, and application.
+        Principal areas of study within Computer Science include artificial intelligence,
+        computer systems and networks, security, database systems, human computer interaction, vision and graphics, numerical analysis,
+        programming languages, software engineering, bioinformatics and theory of computing.
+    </string>
+    <string name="app_name">Feni Computer Institiute</string>
+    <string name="Textview">
+        Telecommunication networks are transmission systems enabling information to be transmitted in analogue or digital form between various different sites by means of electromagnetic or optical signals.
+        The information may consist of audio or video data or some other type of data.AROUND THE HOME
+FAMILY
+REVIEWS
+ONE COOL THING
+SEARCH
+
+HOMEAROUND THE HOMEPRODUCTIVITYWHAT IS DATA COMMUNICATIONS?
+
+What is Data Communications?
+By Zachary Fenell
+ShareShare on Facebook
+Communication is the process of sharing a message. A conversation between two people is an example of communication. Data communications refers to the sharing of a virtual message. Electronic communications, like emails and instant messages, as well as phone calls are examples of data communications. Understanding data communications can be complex but here are basics you will need to know.
+       </string>
+    <string name="Textt">Feni Computer Institute is a technology based institution in Feni Sadar Upazila, Bangladesh.
+        [1] It is directed under The Directorate of Technical Education(DTE).
+        This is the first government ICT based polytechnic institute for diploma in engineering courses in Bangladesh.
+        It provides diploma in engineering program in three technologies, they are 1.
+        Data Telecommunication and Networking (DNT), 2.
+        Computer Science and Technology (CST) and 3. Telecommunication Technology .
+
+
+    </string>
+
+    <string name="TCTT">Telecommunication is the transmission of signs, signals, messages, words, writings, images and sounds or information of any nature by wire, radio, optical or other electromagnetic systems.[1][2] Telecommunication occurs when the exchange of information between communication participants includes the use of technology. It is transmitted through a transmission medium, such as over physical media, for example, over electrical cable, or via electromagnetic radiation through space such as radio or light.[3][4][5][6][7][8] Such transmission paths are often divided into communication channels which afford the advantages of multiplexing. Since the Latin term communicatio is considered the social process of information exchange, the term telecommunications is often used in its plural form because it involves many different technologies.[9]
+
+Early means of communicating over a distance included visual signals, such as beacons, smoke signals, semaphore telegraphs, signal flags and optical heliographs.[10] Other examples of pre-modern long-distance communication included audio messages such as coded drumbeats, lung-blown horns, and loud whistles. 20th- and 21st-century technologies for long-distance communication usually involve electrical and electromagnetic technologies, such as telegraph, telephone, and teleprinter, networks, radio, microwave transmission, optical fiber, and communications satellites.</string>
+    <string name="prince">Feni Computer Institute is recognized as a state leader in ICT teaching and learning, student relationships and well being. We create a safe social and physical environment that helps all our students learn and succeed. The size of the Institute and the emphasis on developing and maintaining positive relationships means that we know each student as an individual. With around 600 students, we can provide more personal support and greater access to opportunities in each student’s chosen fields of interest. Principal,Feni Computer Institute
+</string>
+</resources>

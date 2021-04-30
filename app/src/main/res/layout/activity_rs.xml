@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    tools:context=".RS" android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_width="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:background="@drawable/bksss"
+        android:layout_height="match_parent">
+        <ImageView
+            android:layout_marginTop="10dp"
+
+            android:layout_gravity="center"
+            android:layout_width="800sp"
+            android:layout_height="250dp"
+            android:src="@drawable/dev"/>
+        <TextView
+             android:layout_marginTop="10dp"
+            android:layout_marginLeft="30dp"
+            android:layout_width="match_parent"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:layout_height="wrap_content"
+            android:text="Name: Debabrata Kumar Nath"
+
+
+            />
+        <TextView
+            android:layout_marginLeft="30dp"
+            android:layout_width="match_parent"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:layout_height="wrap_content"
+            android:text="Head of the department (RS)"
+
+            />
+        <TextView
+
+            android:layout_marginLeft="30dp"
+            android:layout_width="match_parent"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:layout_height="wrap_content"
+            android:text="Department: RS"
+
+            />
+        <TextView
+            android:layout_marginLeft="30dp"
+            android:layout_width="match_parent"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:layout_height="wrap_content"
+            android:text="Designation: Cheif Instructor"
+
+            />
+        <TextView
+
+            android:layout_marginLeft="30dp"
+            android:layout_width="match_parent"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:layout_height="wrap_content"
+            android:text="Phone: +8801553375004"
+
+            />
+        <Button
+
+            android:id="@+id/devvv_id"
+            android:layout_width="120dp"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+            android:textSize="25dp"
+            android:layout_marginTop="10dp"
+            android:text="Call Now"
+            android:background="@drawable/button_shape"
+            android:textColor="#FF9800"/>
+        <ImageView
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:layout_width="800sp"
+            android:layout_height="250dp"
+            android:src="@drawable/sr"/>
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="30dp"
+            android:layout_width="match_parent"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:layout_height="wrap_content"
+            android:text="Name: Sanuwar Hossain"
+
+            />
+        <TextView
+
+            android:layout_marginLeft="30dp"
+            android:layout_width="match_parent"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:layout_height="wrap_content"
+            android:text="Department: RS"
+
+            />
+        <TextView
+            android:layout_marginLeft="30dp"
+            android:layout_width="match_parent"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:layout_height="wrap_content"
+            android:text="Designation: Junior Instructor"
+
+            />
+        <TextView
+
+            android:layout_marginLeft="30dp"
+            android:layout_width="match_parent"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:layout_height="wrap_content"
+            android:text="Phone: +8801737463844"/>
+        <Button
+
+            android:id="@+id/sun_id"
+            android:layout_width="120dp"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+            android:textSize="25dp"
+            android:layout_marginTop="10dp"
+            android:text="Call Now"
+            android:background="@drawable/button_shape"
+            android:textColor="#FF9800"/>
+
+            />
+        <ImageView
+            android:layout_marginTop="10dp"
+
+            android:layout_gravity="center"
+            android:layout_width="800sp"
+            android:layout_height="250dp"
+            android:src="@drawable/mj"/>
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="30dp"
+            android:layout_width="match_parent"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:layout_height="wrap_content"
+            android:text="Name: Md.Mojidur Rahman"
+
+            />
+        <TextView
+
+            android:layout_marginLeft="30dp"
+            android:layout_width="match_parent"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:layout_height="wrap_content"
+            android:text="Department: RS"
+
+            />
+        <TextView
+            android:layout_marginLeft="30dp"
+            android:layout_width="match_parent"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:layout_height="wrap_content"
+            android:text="Designation:Instructor"
+
+            />
+        <TextView
+
+            android:layout_marginLeft="30dp"
+            android:layout_width="match_parent"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:layout_height="wrap_content"
+            android:text="Phone: +8801843492677"
+
+            />
+        <Button
+            android:id="@+id/mojj_id"
+            android:layout_width="120dp"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+            android:textSize="25dp"
+            android:layout_marginTop="10dp"
+            android:text="Call Now"
+            android:background="@drawable/button_shape"
+            android:textColor="#FF9800"/>
+        <ImageView
+            android:layout_marginTop="10dp"
+
+            android:layout_gravity="center"
+            android:layout_width="800sp"
+            android:layout_height="250dp"
+            android:src="@drawable/du"/>
+        <TextView
+            android:layout_marginTop="10dp"
+
+            android:layout_marginLeft="30dp"
+            android:layout_width="match_parent"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:layout_height="wrap_content"
+            android:text="Name: Dulal Husain"
+
+            />
+        <TextView
+
+            android:layout_marginLeft="30dp"
+            android:layout_width="match_parent"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:layout_height="wrap_content"
+            android:text="Department: RS"
+
+            />
+        <TextView
+            android:layout_marginLeft="30dp"
+            android:layout_width="match_parent"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:layout_height="wrap_content"
+            android:text="Designation:Instructor"
+
+            />
+        <TextView
+
+            android:layout_marginLeft="30dp"
+            android:layout_width="match_parent"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:layout_height="wrap_content"
+            android:text="Phone: +8801724363463"
+
+            />
+        <Button
+            android:id="@+id/dul_id"
+            android:layout_width="120dp"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+            android:textSize="25dp"
+            android:layout_marginTop="10dp"
+            android:text="Call Now"
+            android:background="@drawable/button_shape"
+            android:textColor="#FF9800"/>
+        <ImageView
+            android:layout_marginTop="10dp"
+
+            android:layout_gravity="center"
+            android:layout_width="600sp"
+            android:layout_height="250dp"
+            android:src="@drawable/rb"/>
+        <TextView
+            android:layout_marginTop="10dp"
+
+            android:layout_marginLeft="30dp"
+            android:layout_width="match_parent"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:layout_height="wrap_content"
+            android:text="Rajib Kumar Ghosh"
+
+            />
+        <TextView
+
+            android:layout_marginLeft="30dp"
+            android:layout_width="match_parent"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:layout_height="wrap_content"
+            android:text="Department: RS"
+
+            />
+        <TextView
+            android:layout_marginLeft="30dp"
+            android:layout_width="match_parent"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:layout_height="wrap_content"
+            android:text="Designation:Instructor"
+
+            />
+        <TextView
+
+            android:layout_marginLeft="30dp"
+            android:layout_width="match_parent"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:layout_height="wrap_content"
+            android:text="Phone: +8801767911281"
+
+            />
+        <Button
+            android:id="@+id/rajib_id"
+            android:layout_width="120dp"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+            android:textSize="25dp"
+            android:layout_marginTop="10dp"
+            android:text="Call Now"
+            android:background="@drawable/button_shape"
+            android:textColor="#FF9800"/>
+    </LinearLayout>
+
+</ScrollView>
+
+

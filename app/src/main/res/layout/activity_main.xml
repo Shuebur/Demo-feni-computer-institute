@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    tools:context=".MainActivity"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    >
+<LinearLayout
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="@drawable/kkk"
+    android:layout_height="match_parent">
+
+ <TextView
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+  android:text="Welcome"
+  android:textSize="50sp"
+  android:textStyle="bold"
+  android:gravity="center"
+  android:textColor="#E4165C"/>
+
+ <TextView
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:gravity="center"
+     android:text="To"
+     android:textColor="#E4165C"
+     android:textSize="50sp"
+     android:textStyle="bold" />
+
+ <TextView
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:text="FCI"
+     android:textSize="50sp"
+     android:textStyle="bold"
+     android:gravity="center"
+     android:textColor="#E4165C"/>
+ <Button
+
+     android:id="@+id/Ab_id"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="center"
+     android:text="About Fci"
+     android:textStyle="italic"
+     android:textSize="20dp"
+     android:textColor="#fff"
+     android:background="@drawable/button_shape"
+     android:textAllCaps="false"
+     android:layout_marginTop="25dp"
+     android:layout_margin="10dp"/>
+ <Button
+     android:textStyle="italic"
+     android:textSize="20dp"
+     android:textColor="#fff"
+     android:id="@+id/Department_id"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="center"
+     android:text="Department"
+     android:background="@drawable/button_shape"
+     android:textAllCaps="false"
+     android:layout_marginTop="25dp"
+     android:layout_margin="10dp"/>
+ <Button
+     android:textStyle="italic"
+     android:textSize="20dp"
+     android:textColor="#fff"
+     android:id="@+id/Pricipals_id"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="center"
+     android:text="Principal"
+     android:background="@drawable/button_shape"
+     android:textAllCaps="false"
+     android:layout_marginTop="25dp"
+     android:layout_margin="10dp"/>
+
+ <Button
+     android:id="@+id/Tech_id"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="center"
+     android:layout_margin="10dp"
+     android:layout_marginTop="25dp"
+     android:background="@drawable/button_shape"
+     android:text="Teachers"
+     android:textAllCaps="false"
+     android:textColor="#fff"
+     android:textSize="20dp"
+     android:textStyle="italic" />
+
+ <Button
+     android:textStyle="italic"
+     android:textSize="20dp"
+     android:textColor="#fff"
+     android:id="@+id/Offst_id"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="center"
+     android:text="Notice"
+     android:background="@drawable/button_shape"
+     android:textAllCaps="false"
+     android:layout_marginTop="25dp"
+     android:layout_margin="10dp"/>
+ <Button
+     android:textStyle="italic"
+     android:textSize="20dp"
+     android:textColor="#fff"
+     android:id="@+id/Result_id"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="center"
+     android:text="Result"
+     android:background="@drawable/button_shape"
+     android:textAllCaps="false"
+     android:layout_marginTop="25dp"
+     android:layout_margin="10dp"/>
+ <Button
+     android:textStyle="italic"
+     android:textSize="20dp"
+     android:textColor="#fff"
+     android:id="@+id/Contact_id"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="center"
+     android:text="Emergency Contact"
+     android:background="@drawable/button_shape"
+     android:textAllCaps="false"
+     android:layout_marginTop="25dp"
+     android:layout_margin="10dp"/>
+<Button
+    android:id="@+id/alb_id"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+ android:textSize="20dp"
+ android:text="FCI Album"
+    android:textColor="#fff"
+    android:layout_gravity="center"
+    android:layout_margin="10dp"
+    android:textAllCaps="false"
+    android:layout_marginTop="25dp"
+    android:background="@drawable/button_shape"/>
+ <Button
+     android:textStyle="italic"
+     android:textSize="20dp"
+     android:textColor="#fff"
+     android:id="@+id/Act_id"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="center"
+     android:text="Activity"
+     android:background="@drawable/button_shape"
+     android:textAllCaps="false"
+     android:layout_marginTop="25dp"
+     android:layout_margin="10dp"/>
+ <Button
+     android:textStyle="italic"
+     android:textSize="20dp"
+     android:textColor="#fff"
+     android:id="@+id/Ho_id"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="center"
+     android:text="Hostel"
+     android:background="@drawable/button_shape"
+     android:textAllCaps="false"
+     android:layout_marginTop="25dp"
+     android:layout_margin="10dp"/>
+ <Button
+     android:textStyle="italic"
+     android:textSize="20dp"
+     android:textColor="#fff"
+     android:id="@+id/WEB_id"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="center"
+     android:text="Official Website"
+     android:background="@drawable/button_shape"
+     android:textAllCaps="false"
+     android:layout_marginTop="25dp"
+     android:layout_margin="10dp"/>
+ <Button
+     android:textStyle="italic"
+     android:textSize="20dp"
+     android:textColor="#fff"
+     android:id="@+id/Us_id"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_gravity="center"
+     android:text="About Us"
+     android:background="@drawable/button_shape"
+     android:textAllCaps="false"
+     android:layout_marginTop="25dp"
+     android:layout_margin="10dp"/>
+</LinearLayout>
+
+</ScrollView>

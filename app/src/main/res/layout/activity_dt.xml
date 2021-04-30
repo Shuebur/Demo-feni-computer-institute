@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="wrap_content"
+
+    android:orientation="vertical"
+
+    android:layout_width="match_parent"
+    tools:context=".DT">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="@drawable/bbbb"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_marginTop="10dp"
+        android:layout_width="1000sp"
+        android:layout_gravity="center"
+        android:layout_height="250dp"
+        android:src="@drawable/mamun"/>
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="Name: Abdullah Al Mamun"
+
+
+        />
+    <TextView
+
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="Head of the department(DTNT)"
+
+        />
+    <TextView
+
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="Department: DTNT"
+
+        />
+    <TextView
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="Designation: Instructor"
+
+        />
+    <TextView
+
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="Phone: +8801818591793"
+
+        />
+    <Button
+        android:id="@+id/mamun_id"
+        android:layout_width="120dp"
+        android:text="Call Now"
+        android:textColor="#FF9800"
+        android:textSize="25dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/button_shape"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        />
+    <ImageView
+android:layout_marginTop="10dp"
+        android:layout_width="1000sp"
+        android:layout_gravity="center"
+        android:layout_height="250dp"
+        android:src="@drawable/hl"/>
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="Name: Helal Uddin"
+
+
+        />
+    <TextView
+
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="Department: DTNT"
+
+        />
+    <TextView
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="Designation: Instructor"
+
+        />
+    <TextView
+
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="Phone: +8801815645223"
+
+        />
+    <Button
+        android:id="@+id/helal_id"
+        android:layout_width="120dp"
+        android:text="Call Now"
+        android:textColor="#FF9800"
+        android:textSize="25dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/button_shape"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        />
+    <ImageView
+        android:layout_marginTop="10dp"
+        android:layout_width="1000sp"
+        android:layout_gravity="center"
+        android:layout_height="250dp"
+        android:src="@drawable/mamm"/>
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="Name: Mobarrah Akter Neera"
+
+
+        />
+    <TextView
+
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="Department: DTNT"
+
+        />
+    <TextView
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="Designation: Junior Instructor"
+
+        />
+    <TextView
+
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="Phone: +8801828067490"
+
+        />
+    <Button
+        android:id="@+id/nira_id"
+        android:layout_width="120dp"
+        android:text="Call Now"
+        android:textColor="#FF9800"
+        android:textSize="25dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/button_shape"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        />
+
+    <ImageView
+   android:layout_marginTop="10dp"
+        android:layout_width="1000sp"
+        android:layout_gravity="center"
+        android:layout_height="250dp"
+        android:src="@drawable/bithi"/>
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="Name: Nahida Sultana Bithi"
+
+
+        />
+    <TextView
+
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="Department: DTNT"
+
+        />
+    <TextView
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="Designation: Junior Instructor"
+
+        />
+    <TextView
+
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="Phone: +8801615645224"/>
+    <Button
+        android:id="@+id/nahida_id"
+        android:layout_width="120dp"
+        android:text="Call Now"
+        android:textColor="#FF9800"
+        android:textSize="25dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/button_shape"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        />
+
+        />
+    <ImageView
+        android:layout_marginTop="10dp"
+        android:layout_width="1000sp"
+        android:layout_gravity="center"
+        android:layout_height="250dp"
+        android:src="@drawable/tas"/>
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="Name: Tasnuba Begum"
+
+
+        />
+    <TextView
+
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="Department: DTNT"
+
+        />
+    <TextView
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="Designation: Junior Instructor"
+
+        />
+    <TextView
+
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="Phone: +8801838599437"/>
+    <Button
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        android:id="@+id/tasnuba_id"
+        android:layout_width="120dp"
+        android:text="Call Now"
+        android:textColor="#FF9800"
+        android:textSize="25dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/button_shape"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+
+        />
+
+
+    <ImageView
+        android:layout_marginTop="10dp"
+        android:layout_width="1000sp"
+        android:layout_gravity="center"
+        android:layout_height="250dp"
+        android:src="@drawable/israk"/>
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="Name: Engr.Md.Ishrak Hosain"
+
+
+        />
+    <TextView
+
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="Department: DTNT"
+
+        />
+    <TextView
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="Designation: Instructor"
+
+        />
+    <TextView
+
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="Phone: +8801814722970"
+
+        />
+    <Button
+        android:id="@+id/ishrak_id"
+        android:layout_width="120dp"
+        android:text="Call Now"
+        android:textColor="#FF9800"
+        android:textSize="25dp"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/button_shape"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+
+        />
+    <ImageView
+        android:layout_marginTop="10dp"
+        android:layout_width="1000sp"
+        android:layout_gravity="center"
+        android:layout_height="250dp"
+        />
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="Name: Nazmun Nahar"
+
+
+        />
+    <TextView
+
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="Department: DTNT"
+
+        />
+    <TextView
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="Designation: Junior Instructor"
+
+        />
+    <TextView
+
+        android:layout_marginLeft="30dp"
+        android:layout_width="match_parent"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:layout_height="wrap_content"
+        android:text="Phone: +8801616614292"
+
+        />
+    <Button
+        android:id="@+id/munni_id"
+        android:layout_width="120dp"
+        android:text="Call Now"
+        android:textColor="#FF9800"
+        android:textSize="25dp"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/button_shape"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+
+        />
+</LinearLayout>
+</ScrollView>

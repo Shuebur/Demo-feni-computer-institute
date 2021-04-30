@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/light"
+    android:layout_gravity="center"
+    tools:context=".Princip">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+
+
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="400dp"
+        android:layout_height="300dp"
+    android:layout_gravity="center"
+        android:layout_marginTop="2dp"
+        android:src="@drawable/sir" />
+
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Engr.Md.Rakib Ullah"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:layout_marginLeft="55dp"
+
+        android:textColor="#22FFFF"/>
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Principal of"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:layout_marginLeft="105dp"
+
+        android:textColor="#22FFFF"/>
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Feni Computer Institiute"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:layout_marginLeft="25dp"
+
+        android:textColor="#22FFFF"/>
+    <Button
+        android:layout_marginTop="10dp"
+        android:textStyle="bold"
+        android:textAllCaps="false"
+        android:id="@+id/pricipal_id"
+        android:layout_width="120dp"
+        android:layout_gravity="center"
+        android:text="Call Now"
+        android:background="@drawable/button_shape"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:textColor="#FF9800"/>
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Principal message :"
+    android:textColor="#fff"
+    android:textStyle="bold"
+    android:layout_marginLeft="15dp"
+    android:textSize="30sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:text="@string/prince"
+        android:textColor="#fff"
+        android:textSize="20sp"
+
+        android:textStyle="italic" />
+
+</LinearLayout>
+
+</ScrollView>
+
+
