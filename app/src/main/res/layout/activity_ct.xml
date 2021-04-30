@@ -24,7 +24,7 @@
             android:layout_marginLeft="30dp"
             android:layout_width="match_parent"
             android:textStyle="bold"
-            android:textColor="#fff"
+            android:textColor="#D33333"
             android:textSize="18sp"
             android:layout_height="wrap_content"
             android:text="Name: Afroja Jainab"
